@@ -1,5 +1,2 @@
 - 👋 Oi, Eu sou o Matheus Henrique.
-- 👀 Estou interessado em projetos envolvendo (Back-end) Java, Spring e (Front-end) Angular, TypeScript.
-- 🌱 Estou aprendendo o FullStack e testes unitários.
-
-
+- 👀 Estou interessado em projetos envolvendo Java, SpringBoot, estudando cada dia mais para ser especializar em backend
