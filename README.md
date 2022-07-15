@@ -15,9 +15,9 @@
 </div>
 
 ## :gear: &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+<div style="display: inline_block"><br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
   ##
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
