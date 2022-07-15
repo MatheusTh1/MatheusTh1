@@ -16,7 +16,7 @@
 
 ## :gear: &nbsp;GitHub Analytics
 <div style="display: inline_block"><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
   ##
  
