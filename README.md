@@ -1,4 +1,4 @@
-##  🖖🏻 Hello World! Meu nome é Matheus sou desenvolvedor back-end
+##  🖖🏻 Hello World! My name is Matheus i'm developer backend!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -15,7 +15,7 @@
 <a href="https://github.com/MatheusTh1">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-## :rocket: &nbsp;Main languages
+## :rocket: &nbsp;Main Languages
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
