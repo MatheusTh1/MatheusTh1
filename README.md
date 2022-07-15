@@ -23,7 +23,7 @@
 
 ## :fire: &nbsp;GitHub Analytics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github.com/MatheusTh1">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
