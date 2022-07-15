@@ -2,13 +2,13 @@
 
 ## :gear: &nbsp;GitHub Analytics
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/MatheusTh1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>  
 
 <div align="center">
-<img [![GitHub Streak] src="http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>  
 
 <div style="display: inline_block"><br>
