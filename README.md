@@ -1,4 +1,4 @@
-## Oi tudo bem? Eu sou o Matheus, desenvolvedor back-end!
+##  Hello World! My name is Matheus, i'm back-end developer 👨🏽‍💻
 <div align="center">
   <a href="https://github.com/MatheusTh1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
