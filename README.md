@@ -7,9 +7,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>  
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats"/>
+</div>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-## Git Languages
+## Main languages
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
