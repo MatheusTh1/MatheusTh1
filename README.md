@@ -10,7 +10,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github.com/MatheusTh1">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="196em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
