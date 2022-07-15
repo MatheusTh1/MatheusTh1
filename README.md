@@ -8,7 +8,7 @@
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-GL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg">
-<img align="center" alt="Matheus-GH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg">
+<img align="center" alt="Matheus-GH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 ## :fire: &nbsp;GitHub Analytics
