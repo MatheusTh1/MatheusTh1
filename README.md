@@ -30,6 +30,6 @@
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## :rocket: &nbsp;Main Languages
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight&icon_color=yellow"/>
  
 </div>
