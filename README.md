@@ -31,7 +31,5 @@
 
 ## :rocket: &nbsp;Main Languages
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusTh1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
