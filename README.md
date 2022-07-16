@@ -25,11 +25,15 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <a href="https://github.com/MatheusTh1">
+
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-## :rocket: &nbsp;Top Language's
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
+## :rocket: &nbsp;Contribution's in the last 30 days
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusTh1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## :computer: &nbsp;Top Language's
+ <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
  
 </div>
