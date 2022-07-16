@@ -33,7 +33,7 @@
 ## :rocket: &nbsp;Contribution's in the last 30 days
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusTh1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## :computer: &nbsp;Top Language's
+## :computer: &nbsp;Top's Languages
  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
  
 </div>
