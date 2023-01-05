@@ -31,7 +31,6 @@
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## :rocket: &nbsp;Contribution's in the last 30 days
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MatheusTh1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusTh1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
