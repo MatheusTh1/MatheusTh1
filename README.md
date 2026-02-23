@@ -9,19 +9,14 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 ### 🏛️ Architecture
   <img src="https://img.shields.io/badge/Microservices-Architecture-102F4F?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-SOA-024376?style=for-the-badge&logo=architecture&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/API-RESTful-004D99?style=for-the-badge&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-SaaS-005B96?style=for-the-badge&logo=icloud&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/SaaS-API_First-3D30A2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-Robotic--Process-204A77?style=for-the-badge&logo=openai&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Event--Driven-Architecture-006D77?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Resilience-Circuit_Breaker-129A52?style=for-the-badge" />
-  
   <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-00814A?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
   <img src="https://img.shields.io/badge/State-Saga-0E6251?style=for-the-badge" />
-  
   <img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-212F3D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tracing-Distributed_Tracing-333333?style=for-the-badge" />
 </p>
