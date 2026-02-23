@@ -8,6 +8,7 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 
 ### 🏛️ Architecture & Core Principles
 <p align="left">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Robotic--Process-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Event--Driven-Architecture-red?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-orange?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
   <img src="https://img.shields.io/badge/Saga_Pattern-Purple?style=for-the-badge" />
@@ -28,6 +29,7 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Quarkus-4643CC?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 **Databases**
