@@ -7,6 +7,7 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 ---
 
 ### 🏛️ Architecture
+<p align="left">
   <img src="https://img.shields.io/badge/Microservices-Architecture-102F4F?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-SOA-024376?style=for-the-badge&logo=architecture&logoColor=white" />
   <img src="https://img.shields.io/badge/API-RESTful-004D99?style=for-the-badge&logo=rest&logoColor=white" />
@@ -20,7 +21,7 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
   <img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-212F3D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tracing-Distributed_Tracing-333333?style=for-the-badge" />
 </p>
->
+
 
 
 ### 🛠️ Tech Stack Especializada
