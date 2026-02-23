@@ -8,18 +8,18 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 
 ### 🏛️ Architecture
 <p align="left">
-  <img src="https://img.shields.io/badge/Microservices-Architecture-102F4F?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-SOA-024376?style=for-the-badge&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-RESTful-004D99?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-SaaS-005B96?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/SaaS-API_First-3D30A2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Robotic--Process-204A77?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event--Driven-Architecture-006D77?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Resilience-Circuit_Breaker-129A52?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-00814A?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/State-Saga-0E6251?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-212F3D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tracing-Distributed_Tracing-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-102F4F?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-SOA-024376?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-RESTful-004D99?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-SaaS-005B96?style=for-the-badge&logo=codersrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-API_First-3D30A2?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Robotic--Process-204A77?style=for-the-badge&logo=internetcomputer&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Architecture-Event--Driven-006D77?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Communication-Asynchronous-137D47?style=for-the-badge&logo=apache-kafka&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Resilience-Circuit_Breaker-129A52?style=for-the-badge&logo=pre-commit&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-00814A?style=for-the-badge&logo=domain-driven-design&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-212F3D?style=for-the-badge&logo=prometheus&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tracing-Distributed_Tracing-333333?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 </p>
 
 
@@ -28,9 +28,9 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 
 **Back-end (High Performance in Java)**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java_17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_17%2B-231F20?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-233F37?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-58966C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
