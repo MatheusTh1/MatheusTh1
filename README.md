@@ -6,8 +6,7 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 
 ---
 
-### 🏛️ Architecture & Core Principles
-<p align="left">
+### 🏛️ Architecture
   <img src="https://img.shields.io/badge/Microservices-Architecture-102F4F?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Architecture-SOA-024376?style=for-the-badge&logo=architecture&logoColor=white" />
   
@@ -31,7 +30,7 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 
 ### 🛠️ Tech Stack Especializada
 
-**Back-end (High Performance Java)**
+**Back-end (High Performance in Java)**
 <p align="left">
   <img src="https://img.shields.io/badge/Java_17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
