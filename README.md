@@ -1,40 +1,64 @@
-##  🖖🏻 Hello World! My name is Matheus, i'm developer backend.
+## 🖖🏻 Olá! Eu sou o Matheus
+**Software Architect | Senior Java Developer | Specialist in Distributed Systems**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Matheus-DK" height="50" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Matheus-MY" height="55" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Matheus-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-GL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-JK" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Matheus-RT" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Matheus-RH" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-plain-wordmark.svg">
-  <img align="center" alt="Matheus-TL" height="80" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"> 
-  <img align="center" alt="Matheus-AG" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Matheus-PGS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="Matheus-XD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
-  <img align="center" alt="Matheus-AP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg">
-</div>
+🎓 **Pós-graduado em Arquitetura de Software Distribuído pela PUC.**
+Focado em transformar regras de negócio complexas em sistemas escaláveis e resilientes. Tenho sólida experiência no ecossistema Java, aplicando padrões de arquitetura para resolver desafios de alta carga e consistência de dados e me aventuro também no Front.
 
-## :fire: &nbsp;GitHub Analytics
+---
+
+### 🏛️ Architecture & Core Principles
+<p align="left">
+  <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-orange?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven-Architecture-red?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Saga_Pattern-Purple?style=for-the-badge" />
+</p>
+
+
+### 🛠️ Tech Stack Especializada
+
+**Back-end (High Performance Java)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarkus-4643CC?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Infrastructure & Scalability & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Front-end & Scripting**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+---
+
+### 📈 Metrics & Activity
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MatheusTh1&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<a href="https://github.com/MatheusTh1">
 
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=MatheusTh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-## :rocket: &nbsp;Contribution's in the last 30 days
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatheusTh1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## :computer: &nbsp;Top's Languages
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTh1&layout=compact&langs_count=7&theme=tokyonight"/>
- 
-</div>
+<!-- <p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusTh1&theme=material-palenight&area=true&hide_border=true" />
+</p> -->
