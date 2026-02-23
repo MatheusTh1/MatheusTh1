@@ -15,7 +15,7 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
   <img src="https://img.shields.io/badge/API-API_First-3D30A2?style=for-the-badge&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-Robotic--Process-204A77?style=for-the-badge&logo=internetcomputer&logoColor=white" />  
   <img src="https://img.shields.io/badge/Architecture-Event--Driven-006D77?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Communication-Asynchronous-137D47?style=for-the-badge&logo=apache-kafka&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Communication-Mensageria-137D47?style=for-the-badge&logo=apache-kafka&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Resilience-Circuit_Breaker-129A52?style=for-the-badge&logo=pre-commit&logoColor=white" /> 
   <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-00814A?style=for-the-badge&logo=domain-driven-design&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-212F3D?style=for-the-badge&logo=prometheus&logoColor=white" /> 
