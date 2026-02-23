@@ -8,13 +8,25 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 
 ### 🏛️ Architecture & Core Principles
 <p align="left">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Robotic--Process-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event--Driven-Architecture-red?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-orange?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/Saga_Pattern-Purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-102F4F?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-SOA-024376?style=for-the-badge&logo=architecture&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/API-RESTful-004D99?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-SaaS-005B96?style=for-the-badge&logo=icloud&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/SaaS-API_First-3D30A2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Robotic--Process-204A77?style=for-the-badge&logo=openai&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Event--Driven-Architecture-006D77?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resilience-Circuit_Breaker-129A52?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/DDD-Domain--Driven%20Design-00814A?style=for-the-badge&logo=domain-driven-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/State-Saga-0E6251?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Observability-Log%20%26%20Metrics-212F3D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tracing-Distributed_Tracing-333333?style=for-the-badge" />
 </p>
+>
 
 
 ### 🛠️ Tech Stack Especializada
@@ -44,11 +56,14 @@ Focado em transformar regras de negócio complexas em sistemas escaláveis e res
 
 **Infrastructure & Scalability & DevOps & API Design**
 <p align="left">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=for-the-badge&logo=openapi-initiative&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apigee-00BBD4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-eb5424?style=for-the-badge&logo=oauth&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
